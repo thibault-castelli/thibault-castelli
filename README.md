@@ -44,4 +44,4 @@ I'm a **Full Stack Web Developper** from France, living in Eindhoven (Netherland
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nineInchClous&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibault-castelli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
