@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About me
-I'm a **Full Stack Web Developper** from France, living in Eindhoven (Netherlands) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FyMHk5b3liZWV3MGk3eTA2cG0zNmZkM2YybDV2NnF1Ym42ampkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJUhSOR9agCiXPFBqu/giphy.gif" alt="wave gif" width="30">
+I'm a **Full Stack Web Developer** from France, living in Eindhoven (Netherlands) <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2FyMHk5b3liZWV3MGk3eTA2cG0zNmZkM2YybDV2NnF1Ym42ampkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJUhSOR9agCiXPFBqu/giphy.gif" alt="wave gif" width="30">
 - :telescope: I strive to develop simple and intuitive solutions that address complex problems.
 - :seedling: I thrive in multidisciplinary teams, learning from the expertise of my colleagues.I am an attentive listener and willing to contribute to ideas and projects.
 - :zap: I embrace change and value constructive criticism as a means to continuously enhance my skills and performance.
@@ -42,3 +42,8 @@ I'm a **Full Stack Web Developper** from France, living in Eindhoven (Netherland
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### 📊 Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibault-castelli&layout=compact&theme=dark)
