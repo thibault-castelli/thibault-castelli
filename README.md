@@ -20,7 +20,6 @@ I'm a **Full Stack Web Developer** from France, living in Eindhoven (Netherlands
 - :telescope: I strive to develop simple and intuitive solutions that address complex problems.
 - :seedling: I thrive in multidisciplinary teams, learning from the expertise of my colleagues.I am an attentive listener and willing to contribute to ideas and projects.
 - :zap: I embrace change and value constructive criticism as a means to continuously enhance my skills and performance.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:thibault.castelli@pm.me)
 
 ---
 
