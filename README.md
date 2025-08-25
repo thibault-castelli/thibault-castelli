@@ -7,7 +7,7 @@
     <a href="mailto:thibault.castelli@pm.me">
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail Badge">
     </a>
-    <a href="thibault-castelli.vercel.app">
+    <a href="https://thibault-castelli.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-D87757?style=for-the-badge&logo=null&logoColor=white" alt="Portfolio Badge">
     </a>
   </div>
