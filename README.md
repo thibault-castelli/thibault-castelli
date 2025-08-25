@@ -2,15 +2,18 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlsOWp5b2w5ODZ6enE4eXphZ3c3azVidThxMGppcGxucWZqZm4wYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" alt="computer gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/thibault-castelli/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:thibault.castelli@pm.me">
       <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail Badge">
     </a>
+    <a href="thibault-castelli.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-D87757?style=for-the-badge&logo=null&logoColor=white" alt="Portfolio Badge">
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=nineInchClous&style=flat-square&color=blue" alt="profile views count"/>
   
-  ### Hi, I'm Thibault 👋🏻
+  ### Hi! I'm Thibault 👋🏻
 </div>
 
 ---
@@ -33,6 +36,7 @@ I'm a **Full Stack Web Developer** from France, living in Eindhoven (Netherlands
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".Net Core" alt=".Net Core" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
